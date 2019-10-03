@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Blog</title>
+    <title>Emily Giel</title>
     <meta charset="utf-8">
     <link href="giel.css" rel="stylesheet">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -27,20 +27,18 @@
             <li><a href="photos.html">photos</a></li>
             <li><a href="resume.html">resume</a></li>
             <li><a href="contact.html">contact me</a></li>
-
         </ul>
     </nav>
     <main>
-        <h2>Xin chào các bạn!</h2>
-        <p>I made this blog to update my friends and family so I don't have to blast out the same stories to 10 group chats every day, for Future Emily to look back and laugh, and to pass on some of the information to prospective applicants that I wish I'd had when I was applying for Fulbright.
-        <div id='blogtitles'>
-            <ul>
-                <li class='posttitle'><a href="10-3post.html">What my Life Here Looks Like</a>  -  10/3/19</li>
-                <li class='posttitle'><a href="9-27post.html">Why Am I Here: An Intro Note For Friends and Prospective Fulbrighters</a>  -  9/26/19</li>
-            </ul>
+        <h2>Hello...</h2>
+        <p>and welcome to my slice of the Internet! I’m Emily, and I'm currently a Fulbright English Teaching Assistant (ETA) in Vietnam. I'm from Arizona, and I graduated from Arizona State University in 2019 with degrees in data analytics and marketing. I made this site as a joint portfolio/Fulbright blog/excuse to practice my web development skills.</p>
+        <p>Here's a sample of what my life looks like at the moment:</p>
+        <div id="images">
+            <img src = "tamcoc.jpg" alt = "Standing in front of the rice fields in Tam Coc, Vietnam "  height = 400 class = "centeredtwo">
+            <img src = "mewithpho.jpg" alt = "Eating Pho in Hanoi" height = 400 class = "centeredtwo">
         </div>
-        <br><br><p>Disclaimer: Please note that this website is not an official Department of State publication, and the views and information presented are my own and do not represent the Fulbright U.S. Student Program, the Department of State, the U.S. Embassy in Hanoi, or Vietnam.</p>
-      
+        <br><br><p>I'm passionate about international cultures, technology, education, data analytics, and marketing strategy. I also love cooking Vietnamese food, going to comedy shows, boxing, and trying (read: failing) to predict Oscars winners every year! I'll be working on this site using HTML and CSS as a project throughout the year, so please excuse any craziness you might find here as I learn to make things pretty! </p>
+        
     </main>
     <footer>
         <div>Website developed and designed by Emily Giel</div>
