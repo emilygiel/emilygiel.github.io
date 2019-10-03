@@ -311,8 +311,6 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
     }
     nav a {
         display: inline;
-        height: 5%
-
     }
     #mobile {
         display: inline;
