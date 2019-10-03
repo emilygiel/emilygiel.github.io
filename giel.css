@@ -106,6 +106,7 @@ img {
   margin-right: auto;
   margin-top: 5%;
   margin-bottom: 5%;
+    max-width: 80%;
 }
 .centered {
     display: block;
@@ -280,6 +281,13 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
     max-width: 100%;
 
     }
+    img {
+    width: 80%;
+    }
+    .centeredheader{
+        max-height: 80%;
+        max-width: 80%
+    }
 }
 
 @media only screen and (max-width: 37.5em) {
@@ -324,6 +332,7 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
     img {
     width: 100%;
     }
+
 }
 
 
