@@ -247,7 +247,10 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
 #mobile {display: none;}
 #desktop {display: inline;}
 
-@media only screen and (max-width: 64em) { 
+@media only screen and (max-width: 56em) { 
+    header {
+        height: 200px;
+    }
     body {
         margin: 0px;
         background-color: #ffffff; }
@@ -264,9 +267,14 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
         text-align: left;
         }
     nav li {
-        display: inline;
-        padding: 0.25em 0.75em 0.25em 0.75em;
+        display: block;
         text-align: left;
+        margin: 0px;
+        border-bottom: 2px solid #330000;
+    }
+    nav a {
+        display: inline;
+        padding-top:1px;
     }
     footer {
         margin-left: 0px;
@@ -285,14 +293,14 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
     width: 80%;
     }
     .centeredheader{
-        max-height: 80%;
-        max-width: 80%
+        max-width: 40%
     }
 }
 
 @media only screen and (max-width: 37.5em) {
     header {
         padding-top: 1em;
+        height: 200px;
     }
     main {
         padding: 0.1em 1em 0.1em 1em;
@@ -311,6 +319,8 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
     }
     nav a {
         display: inline;
+        padding-top:1px;
+
     }
     #mobile {
         display: inline;
@@ -329,6 +339,9 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
     }
     img {
     width: 100%;
+    }
+    .centeredheader{
+        max-width: 70%
     }
 
 }
