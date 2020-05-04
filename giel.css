@@ -44,7 +44,14 @@ h4 {
     
 }
 nav {
-    padding: 20px;
+    
+}
+.navcontainer{
+    display: flex;
+    flex-direction: row;
+	justify-content: space-evenly;
+	align-items: center;
+	flex-wrap: wrap;
 }
 nav a {
     text-decoration: none;
@@ -265,6 +272,13 @@ header, main, nav, footer, figure, figcaption, aside, section, article { display
         width: auto;
         padding: 0.5em;
         text-align: left;
+        }
+    .navcontainer {  
+        flex-wrap: wrap;  
+        }  
+    
+  .navcontainer > li {  
+        flex-basis: 50%;  
         }
     nav li {
         display: block;
