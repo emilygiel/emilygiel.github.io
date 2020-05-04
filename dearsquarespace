@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Dear Squarespace</title>
+    <meta charset="utf-8">
+    <link href="giel.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Website of Emily Giel, a Fulbright English Teaching Assistant (ETA) in Vĩnh Phúc, Vietnam.">
+    <!--[if lt IE 9]> 
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js">
+    </script> <![endif]-->
+</head>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-149427305-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-149427305-1');
+</script>
+
+<body>
+    
+    <header>
+        <a href="index.html">
+            <img class = "centeredheader" src="personallogo.jpg" alt ="Personal Logo" height = 140>
+        </a>
+    </header>
+    <div id="wrapper">
+    <nav>
+        <ul class="navcontainer">
+            <li><a href="index.html">hello</a></li>
+            <li><a href="blog.html">vietnam blog</a></li>
+            <li><a href="photos.html">photos</a></li>
+            <li><a href="resume.html">resume</a></li>
+            <li><a href="contact.html">contact me</a></li>
+        </ul>
+    </nav>
+    <main>
+        <p class='blogtitle'>Dear Squarespace,</p>
+
+<p>My name is Emily Giel and I’m writing to apply for Squarespace’s Product Marketing Coordinator role. I'm putting this cover letter on my personal website because I coded this entire site from scratch myself, and along the way I learned that web development is incredibly difficult and definitely not for everyone. This made me all the more grateful for Squarespace. Across different marketing jobs, I’ve created multiple Squarespace sites for small businesses. After all the work I've put into this website, I could not be more emphatic in telling all the people who plan to code their own website, "Don't bother! Use Squarespace!" I've seen firsthand how Squarespace makes beautiful design and user experience accessible to everyone. </p>
+
+<p>I’m particularly passionate about Squarespace’s mission of empowerment in the digital world. After spending the past year as a Fulbright scholar in Vietnam, a country where technology and the web are causing explosive economic and cultural growth, I saw the impact that access to digital resources can have. I spent much of my spare time teaching my students about digital marketing techniques. I taught them to sell their art online, to make websites for their clubs, and to fundraise on social media. I became inspired to dedicate my career to making great technology accessible to those who need it most.</p>
+
+<p>I have been drawn to product marketing since my first year of college, when I joined a team of novice software engineers to lead marketing for a startup called Dropspot. I learned the basics of marketing on the fly and created a full marketing plan along with brand and acquisition strategies for a growing new startup. I learned that product marketing is inextricably tied to user experience, and I thought from the user’s perspective to create interesting new strategies that uniquely fit the product. </p>
+
+<p>Later on, I furthered my skills in product marketing as the marketing analytics intern at HBO, where I conducted in-depth marketing analysis on HBO’s streaming products, HBO Go and HBO Now. I proved myself to be a creative self-starter when I noticed trends in user data and turned those observations into an entire report on product subscriber churn. I found patterns in lapsed subscriptions and identified user types based on their risk of churn. I then formulated data-driven marketing recommendations that would elongate user subscriptions and optimize retention. Eventually, I presented these findings to HBO upper management and began to implement new product marketing strategies. At Squarespace, I would be able to apply my skills for in-depth data analytics, attention to detail, and creative problem solving in order to optimize Squarespace’s product marketing strategy.</p>
+
+<p>Squarespace is a dream company for me because I see Squarespace as the perfect intersection between excellent technology, compelling marketing, and meaningful experiences for users. I’m a passionate hard worker who is excited to learn, and I would be a valuable asset on Squarespace’s product marketing team to further Squarespace’s mission of digital empowerment.</p>
+
+<p>I look forward to hearing from you. Please look through my site to learn more about me and don't hesitate to reach out with questions.</p>
+<br>
+        <p>Best,</p>
+<a href="index.html">
+    <img src="personallogo.jpg" alt ="Emily Giel" height = 140>
+</a>
+
+      
+    </main>
+    <footer>
+        <div>Website developed and designed by Emily Giel</div>
+        <div><a href="mailto:emilygiel28@gmail.com">emilygiel28@gmail.com</a></div>
+    </footer>
+</div>
+</body>
+
+
+
+</html>
