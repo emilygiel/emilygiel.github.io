@@ -213,7 +213,7 @@ video, embed { width: 50%; height: auto;  }
     width: 100%;
     }
 .imgcontainer:hover .overlay {
-  opacity: .55;
+  opacity: .56;
 }
 .overlay {
     position: absolute;
